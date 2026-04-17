@@ -35,6 +35,9 @@
         $arv2 = 123;
 
         echo $arv1. " + ". $arv2. " = ". $arv1+$arv2. "<br>";
+        echo $arv1. " - ". $arv2. " = ". $arv1-$arv2. "<br>";
+        echo $arv1. " ' ". $arv2. " = ". $arv1*$arv2. "<br>";
+        echo $arv1. " / ". $arv2. " = ". $arv1/$arv2. "<br>";
         ?>
     </p>
 </body>
